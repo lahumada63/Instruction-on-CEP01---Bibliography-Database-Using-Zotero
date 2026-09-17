@@ -21,21 +21,19 @@ output-file: index.html
 
 ## Zotero Group Library Screenshot
 
-
-![](images/Part 1 Screenshot.png){width="714"}
-
+![](images/Part%201%20Screenshot.png){width="714"}
 
 ## Example Zotero Item Screenshot
 
-![](images/Part 2 Screenshot A.png)
+![](images/Part%202%20Screenshot%20A.png)
 
-![](images/Part 2 Screenshot B.png)
+![](images/Part%202%20Screenshot%20B.png)
 
-![](images/Part 2 Screenshot C.png)
+![](images/Part%202%20Screenshot%20C.png)
 
 ## Group Source Summary Table
 
--   [Word Document Linked Here](https://livecsupomona-my.sharepoint.com/:w:/g/personal/lewiswaddell_cpp_edu/IQCHEzBjq6--R6XzLUoaq6HzASi6K-_Wn9Mu20jVyHv5hy4?e=bho0PZ)
+- [Word Document Linked Here](https://livecsupomona-my.sharepoint.com/:w:/g/personal/lewiswaddell_cpp_edu/IQCHEzBjq6--R6XzLUoaq6HzASi6K-_Wn9Mu20jVyHv5hy4?e=bho0PZ)
 
 ## Zotero Group Library Link or Invitation Information
 
@@ -43,7 +41,6 @@ output-file: index.html
 
 # Appendix
 
-
 - [GitHub Repository](https://github.com/lahumada63/Instruction-on-CEP01---Bibliography-Database-Using-Zotero.git)
 
-- GitHub Pages
+- [GitHub Pages](https://lahumada63.github.io/Instruction-on-CEP01---Bibliography-Database-Using-Zotero/)
