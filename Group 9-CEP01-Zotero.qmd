@@ -12,13 +12,24 @@ format:
 editor: visual
 execute: 
   freeze: auto
+  
+  
+output-file: index.html
 ---
 
 # Bibliography Database Using Zotero
 
 ## Zotero Group Library Screenshot
 
+![](images/Part 1 Screenshot.png){width="714"}
+
 ## Example Zotero Item Screenshot
+
+![](images/Part 2 Screenshot A.png)
+
+![](images/Part 2 Screenshot B.png)
+
+![](images/Part 2 Screenshot C.png)
 
 ## Group Source Summary Table
 
@@ -26,8 +37,10 @@ execute:
 
 ## Zotero Group Library Link or Invitation Information
 
+<https://www.zotero.org/groups/6674816/gp9-cep-rkr/library>
+
 # Appendix
 
-- GitHub Repository
+- [GitHub Repository](https://github.com/lahumada63/Instruction-on-CEP01---Bibliography-Database-Using-Zotero.git)
 
 - GitHub Pages
