@@ -2,15 +2,15 @@
 title: "GP01 - Bibliography Database Using Zotero"
 author: "Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, Georgia Monjarrez"
 date: today
-format: 
-  html: 
+format:
+  html:
     toc: true
     toc-depth: 4
     number-sections: true
     code-link: true
     embed-resources: true
 editor: visual
-execute: 
+execute:
   freeze: auto
   
   
@@ -21,7 +21,9 @@ output-file: index.html
 
 ## Zotero Group Library Screenshot
 
+
 ![](images/Part 1 Screenshot.png){width="714"}
+
 
 ## Example Zotero Item Screenshot
 
@@ -33,13 +35,14 @@ output-file: index.html
 
 ## Group Source Summary Table
 
-- [Word Document Linked Here](https://livecsupomona-my.sharepoint.com/:w:/g/personal/lewiswaddell_cpp_edu/IQCHEzBjq6--R6XzLUoaq6HzASi6K-_Wn9Mu20jVyHv5hy4?e=bho0PZ)
+-   [Word Document Linked Here](https://livecsupomona-my.sharepoint.com/:w:/g/personal/lewiswaddell_cpp_edu/IQCHEzBjq6--R6XzLUoaq6HzASi6K-_Wn9Mu20jVyHv5hy4?e=bho0PZ)
 
 ## Zotero Group Library Link or Invitation Information
 
 <https://www.zotero.org/groups/6674816/gp9-cep-rkr/library>
 
 # Appendix
+
 
 - [GitHub Repository](https://github.com/lahumada63/Instruction-on-CEP01---Bibliography-Database-Using-Zotero.git)
 
